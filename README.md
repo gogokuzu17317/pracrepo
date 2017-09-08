@@ -15,3 +15,4 @@ Issueと連携させるためには＃１と書きます。
 アットマークをつけてGitHubのユーザ名を記載するとリンクを張ることができます。
 @yuichigoto
 @gosato
+GitHub is difficult.
