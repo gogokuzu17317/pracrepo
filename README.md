@@ -16,4 +16,4 @@ Issueと連携させるためには＃１と書きます。
 @yuichigoto
 @gosato
 
-GitHub
+GitHub is difficult.
